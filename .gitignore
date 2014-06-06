@@ -1,0 +1,8 @@
+.idea
+*.map
+*~
+*.old*
+*.bak*
+.DS_Store
+*tmp*
+*temp*
